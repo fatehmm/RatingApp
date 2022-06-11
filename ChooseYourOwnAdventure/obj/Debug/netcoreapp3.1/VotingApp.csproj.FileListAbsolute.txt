@@ -1,0 +1,14 @@
+/Users/fatehmmmdli/Projects/ChooseYourOwnAdventure/ChooseYourOwnAdventure/bin/Debug/netcoreapp3.1/VotingApp
+/Users/fatehmmmdli/Projects/ChooseYourOwnAdventure/ChooseYourOwnAdventure/bin/Debug/netcoreapp3.1/VotingApp.deps.json
+/Users/fatehmmmdli/Projects/ChooseYourOwnAdventure/ChooseYourOwnAdventure/bin/Debug/netcoreapp3.1/VotingApp.runtimeconfig.json
+/Users/fatehmmmdli/Projects/ChooseYourOwnAdventure/ChooseYourOwnAdventure/bin/Debug/netcoreapp3.1/VotingApp.runtimeconfig.dev.json
+/Users/fatehmmmdli/Projects/ChooseYourOwnAdventure/ChooseYourOwnAdventure/bin/Debug/netcoreapp3.1/VotingApp.dll
+/Users/fatehmmmdli/Projects/ChooseYourOwnAdventure/ChooseYourOwnAdventure/bin/Debug/netcoreapp3.1/VotingApp.pdb
+/Users/fatehmmmdli/Projects/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/netcoreapp3.1/VotingApp.csproj.AssemblyReference.cache
+/Users/fatehmmmdli/Projects/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/netcoreapp3.1/VotingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatehmmmdli/Projects/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/netcoreapp3.1/VotingApp.AssemblyInfoInputs.cache
+/Users/fatehmmmdli/Projects/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/netcoreapp3.1/VotingApp.AssemblyInfo.cs
+/Users/fatehmmmdli/Projects/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/netcoreapp3.1/VotingApp.csproj.CoreCompileInputs.cache
+/Users/fatehmmmdli/Projects/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/netcoreapp3.1/VotingApp.dll
+/Users/fatehmmmdli/Projects/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/netcoreapp3.1/VotingApp.pdb
+/Users/fatehmmmdli/Projects/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/netcoreapp3.1/VotingApp.genruntimeconfig.cache
